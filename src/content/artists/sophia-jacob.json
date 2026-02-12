@@ -1,0 +1,48 @@
+{
+  "id": "sophia-jacob",
+  "name": "Sophia Jacob",
+  "medium": "Fine Art Photography",
+  "bio": "Through dramatic chiaroscuro lighting, Jacob captures the raw vulnerability of the human form. Her portraits reveal what words conceal.",
+  "artistStatement": "The camera is a confessional. I don't take photographs — I receive them. My subjects offer something invisible, and the light catches it for a fraction of a second. That fraction is everything.",
+  "artworkTitle": "The Witness",
+  "year": "2024",
+  "email": "sophia@unmappedstudio.com",
+  "phone": "+91 98765 43213",
+  "location": "Mumbai, India",
+  "website": "sophiajacob.photo",
+  "exhibitions": [
+    "Solo — 'Confessions', Centre Pompidou, Paris, 2024",
+    "Group — 'Light & Shadow', MoMA PS1, New York, 2023",
+    "Paris Photo Fair, Featured Artist, 2023"
+  ],
+  "paintings": [
+    {
+      "id": "sj-1",
+      "title": "The Witness",
+      "image": "/artworks/sophia-jacob/artwork-1.jpg",
+      "dimensions": "90 × 60 cm",
+      "medium": "Archival pigment print",
+      "year": "2024",
+      "availability": "available",
+      "description": "A solitary figure emerges from absolute darkness — vulnerability made luminous."
+    },
+    {
+      "id": "sj-2",
+      "title": "Veil",
+      "image": "/artworks/sophia-jacob/artwork-2.jpg",
+      "dimensions": "120 × 80 cm",
+      "medium": "Silver gelatin print",
+      "year": "2023",
+      "availability": "sold"
+    },
+    {
+      "id": "sj-3",
+      "title": "Between Shadows",
+      "image": "/artworks/sophia-jacob/artwork-3.jpg",
+      "dimensions": "100 × 70 cm",
+      "medium": "C-type print",
+      "year": "2024",
+      "availability": "available"
+    }
+  ]
+}

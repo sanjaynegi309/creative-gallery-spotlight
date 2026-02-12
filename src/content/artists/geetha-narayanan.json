@@ -1,0 +1,49 @@
+{
+  "id": "geetha-narayanan",
+  "name": "Geetha Narayanan",
+  "medium": "Abstract Expressionism",
+  "bio": "Working with bold gestural marks and raw pigments, Narayanan channels emotional intensity into canvases that pulse with kinetic energy. Based in Mexico City.",
+  "artistStatement": "I paint to excavate what language cannot reach. Each mark is an act of confrontation — with the surface, the self, and the silence between them. My work is not about beauty; it is about truth rendered in pigment.",
+  "artworkTitle": "Fracture Line IV",
+  "year": "2024",
+  "email": "geetha@unmappedstudio.com",
+  "phone": "+91 98765 43210",
+  "location": "Bangalore, India",
+  "website": "geethanarayanan.art",
+  "exhibitions": [
+    "Solo — 'Fault Lines', Museo Tamayo, Mexico City, 2024",
+    "Group — 'New Expressionists', Gagosian, New York, 2023",
+    "Group — 'Pulse', Art Basel Miami Beach, 2023"
+  ],
+  "paintings": [
+    {
+      "id": "gn-1",
+      "title": "Fracture Line IV",
+      "image": "/artworks/geetha-narayanan/artwork-1.jpg",
+      "dimensions": "120 × 180 cm",
+      "medium": "Acrylic on canvas",
+      "year": "2024",
+      "availability": "available",
+      "description": "A large-scale gestural work exploring tension between control and chaos."
+    },
+    {
+      "id": "gn-2",
+      "title": "Eruption Study",
+      "image": "/artworks/geetha-narayanan/artwork-2.jpg",
+      "dimensions": "90 × 120 cm",
+      "medium": "Oil and pigment on linen",
+      "year": "2023",
+      "availability": "sold"
+    },
+    {
+      "id": "gn-3",
+      "title": "Red Drift",
+      "image": "/artworks/geetha-narayanan/artwork-3.jpg",
+      "dimensions": "150 × 200 cm",
+      "medium": "Mixed media on canvas",
+      "year": "2024",
+      "availability": "available",
+      "description": "Layers of red and burnt sienna build a landscape of emotional turbulence."
+    }
+  ]
+}
