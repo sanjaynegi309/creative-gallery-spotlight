@@ -1,0 +1,48 @@
+{
+  "id": "rashmi-ayyagari",
+  "name": "Rashmi Ayyagari",
+  "medium": "Sculpture & Installation",
+  "bio": "Ayyagari's minimalist marble forms explore the tension between emptiness and presence. Her work has been exhibited at the Venice Biennale and Tate Modern.",
+  "artistStatement": "Sculpture, for me, is the practice of making absence visible. I carve into stone not to reveal form, but to expose the space it was hiding. The void is the subject.",
+  "artworkTitle": "Threshold",
+  "year": "2023",
+  "email": "rashmi@unmappedstudio.com",
+  "phone": "+91 98765 43211",
+  "location": "Hyderabad, India",
+  "website": "rashmiayyagari.studio",
+  "exhibitions": [
+    "Solo — 'Negative Space', Tate Modern, London, 2024",
+    "Venice Biennale, Indian Pavilion, 2023",
+    "Group — 'Material Futures', Museum of Contemporary Art Tokyo, 2023"
+  ],
+  "paintings": [
+    {
+      "id": "ra-1",
+      "title": "Threshold",
+      "image": "/artworks/rashmi-ayyagari/artwork-1.jpg",
+      "dimensions": "60 × 45 × 30 cm",
+      "medium": "Carrara marble",
+      "year": "2023",
+      "availability": "sold"
+    },
+    {
+      "id": "ra-2",
+      "title": "Vessel No.7",
+      "image": "/artworks/rashmi-ayyagari/artwork-2.jpg",
+      "dimensions": "40 × 40 × 55 cm",
+      "medium": "Bronze and glass",
+      "year": "2024",
+      "availability": "available",
+      "description": "A hollow bronze form encasing a glass orb — fragility protected by permanence."
+    },
+    {
+      "id": "ra-3",
+      "title": "Silence Archive",
+      "image": "/artworks/rashmi-ayyagari/artwork-3.jpg",
+      "dimensions": "200 × 100 × 80 cm",
+      "medium": "Steel and resin",
+      "year": "2023",
+      "availability": "on_hold"
+    }
+  ]
+}

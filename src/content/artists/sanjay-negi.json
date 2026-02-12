@@ -1,0 +1,48 @@
+{
+  "id": "sanjay-negi",
+  "name": "Sanjay Negi",
+  "medium": "Digital Collage & Mixed Media",
+  "bio": "Negi constructs surreal dreamscapes from found imagery, blending botanical elements with vast landscapes to question the boundary between nature and fantasy.",
+  "artistStatement": "I assemble worlds that don't exist yet. By layering fragments of the familiar — a leaf, a cloud, a forgotten photograph — I build doorways into futures we haven't imagined. Collage is prophecy.",
+  "artworkTitle": "Bloom Meridian",
+  "year": "2025",
+  "email": "sanjay@unmappedstudio.com",
+  "phone": "+91 98765 43212",
+  "location": "Delhi, India",
+  "website": "sanjaynegi.com",
+  "exhibitions": [
+    "Solo — 'Botanical Futures', Zeitz MOCAA, Cape Town, 2025",
+    "Group — 'Digital Dreamers', Serpentine Gallery, London, 2024",
+    "Lagos Biennial, Featured Artist, 2024"
+  ],
+  "paintings": [
+    {
+      "id": "sn-1",
+      "title": "Bloom Meridian",
+      "image": "/artworks/sanjay-negi/artwork-1.jpg",
+      "dimensions": "100 × 140 cm",
+      "medium": "Digital print on aluminium",
+      "year": "2025",
+      "availability": "available",
+      "description": "A lush collision of tropical flora and celestial geometry."
+    },
+    {
+      "id": "sn-2",
+      "title": "Canopy Dreaming",
+      "image": "/artworks/sanjay-negi/artwork-2.jpg",
+      "dimensions": "80 × 110 cm",
+      "medium": "Collage and acrylic",
+      "year": "2024",
+      "availability": "available"
+    },
+    {
+      "id": "sn-3",
+      "title": "Root System",
+      "image": "/artworks/sanjay-negi/artwork-3.jpg",
+      "dimensions": "120 × 160 cm",
+      "medium": "Digital collage",
+      "year": "2025",
+      "availability": "sold"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "swati-bhatia",
+  "name": "Swati Bhatia",
+  "medium": "Oil on Canvas",
+  "bio": "Bhatia's thick impasto landscapes reimagine terrain as emotional geography — where deep blues meet burnt sienna in collisions of color and texture.",
+  "artistStatement": "I paint the earth as it feels, not as it appears. Mountains become grief. Rivers become memory. Every landscape is a self-portrait in disguise. The paint must be thick enough to hold the weight.",
+  "artworkTitle": "Horizon Breach",
+  "year": "2025",
+  "email": "swati@unmappedstudio.com",
+  "phone": "+91 98765 43214",
+  "location": "Pune, India",
+  "website": "swatibhatia.art",
+  "exhibitions": [
+    "Solo — 'Emotional Cartography', India Art Fair, Delhi, 2025",
+    "Group — 'Nordic Landscapes', Louisiana Museum, Copenhagen, 2024",
+    "Group — 'Impasto', Whitechapel Gallery, London, 2024"
+  ],
+  "paintings": [
+    {
+      "id": "sb-1",
+      "title": "Horizon Breach",
+      "image": "/artworks/swati-bhatia/artwork-1.jpg",
+      "dimensions": "140 × 200 cm",
+      "medium": "Oil on canvas",
+      "year": "2025",
+      "availability": "available",
+      "description": "A monumental landscape where horizon line dissolves into pure chromatic sensation."
+    },
+    {
+      "id": "sb-2",
+      "title": "Glacier Hymn",
+      "image": "/artworks/swati-bhatia/artwork-2.jpg",
+      "dimensions": "100 × 150 cm",
+      "medium": "Oil on linen",
+      "year": "2024",
+      "availability": "on_hold"
+    },
+    {
+      "id": "sb-3",
+      "title": "Burnt Terrain",
+      "image": "/artworks/swati-bhatia/artwork-3.jpg",
+      "dimensions": "120 × 180 cm",
+      "medium": "Oil and wax on canvas",
+      "year": "2025",
+      "availability": "available"
+    }
+  ]
+}
